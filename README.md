@@ -86,3 +86,10 @@ In Chromium and WebKit, additional wait time or scroll techniques might be neede
 - Step-by-step screenshots
 - HTML report generation (npx playwright show-report).
 - Multi-user or region-based configuration support.
+
+## Testability Improvements
+
+- Add Stable, Semantic Selectors (Test IDs)
+- Expose Component States via DOM
+- Avoid Unpredictable Animations: Add a mechanism to disable animations in test environments.
+- Make Language/Region Selection Test-Friendly
